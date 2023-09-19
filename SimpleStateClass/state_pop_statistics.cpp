@@ -1,7 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "state.h"
+#include "State.h"
+#include "State.cpp"
+
 
 using namespace std;
 
@@ -94,6 +96,6 @@ int main()
 	New.Print_ALL_To_File("state_data_update.txt");
 	cout << "END OF TEST 8:\n";
 	cout << "***********************************************************************************\n";
-	
+
 	return 0;
 }

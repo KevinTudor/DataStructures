@@ -1,7 +1,5 @@
-
-#include "state.h"
+#include "State.h"
 #include <iomanip>  //need to use formatting manipulators
-
 
 
 /***********************FUNCTION HEADER ******************************************************************************************************************
@@ -29,7 +27,16 @@ state_class::state_class()
 	int spacelocation = 0;
 
 	ifstream in;
-	in.open("census2020_data.txt");
+	in.open("\Data/census2020_data.txt");
+
+	if(in.is_open())
+	{
+    	cout << "\n*File successfully open*\n\n";
+	}
+	else
+	{
+		cout << "Error opening file\n";
+	}
 
 	while (!in.eof())
 	{
@@ -46,6 +53,7 @@ state_class::state_class()
 				break;
 			}
 		}
+
 		pop_DB[count].state_name = lineReader.substr(0, spacelocation);        // takes input from begining of the line to the final space and puts it into .statename.  
 		pop_DB[count].population = stod(lineReader.substr(spacelocation + 1, lineReader.length() - spacelocation - 1));
 
@@ -185,7 +193,7 @@ and outputs all statename and population values to the file.
 void state_class::Print_ALL_To_File(const string& filename)
 {
 	ofstream output;
-	output.open(filename);
+	output.open("Data/" + filename);
 
 	output.setf(ios::left);
 	output.setf(ios::fixed);
