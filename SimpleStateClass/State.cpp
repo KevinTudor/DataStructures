@@ -27,7 +27,7 @@ state_class::state_class()
 	int spacelocation = 0;
 
 	ifstream in;
-	in.open("\Data/census2020_data.txt");
+	in.open("Data/census2020_data.txt");
 
 	if(in.is_open())
 	{
