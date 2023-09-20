@@ -37,7 +37,12 @@ Examples of postfix to infix evaluation (by hand)
 * result	"  16  "
 
 ### [SimpleQueue](SimpleQueue)
-- The purpose of this program is to (1) manipulate pointers, (2) allocate memory dynamically, (3) implement a default constructor, copy constructor and destructor, (4) use only one pointer to add to the back and to delete from the front of the queue.
+- The purpose of this program is to practice writing code for a simple queue class
+
+1. Manipulate pointers
+2. Allocate memory dynamically
+3. Implement a default constructor, copy constructor and destructor
+4. Use only one pointer to add to the back and to delete from the front of the queue.
 
 ### [SimpleRecursion](SimpleRecursion)
 - Write a program that contains two recursive and one non-recursive functions
@@ -45,15 +50,17 @@ Examples of postfix to infix evaluation (by hand)
 1. A recursive boolean function called palindrome that accepts one string argument(for the user)
 and returns true if the string reads the same forward as it does backwards.For example madam,
 463364, and "ABLE WAS I ERE I SAW ELBA" are all palindromes.
-
 2. A recursive function called printReverse that accepts one string argument(for the user)
 and returns the reverse of that string.
-
 3. A non-recursive function called printIterReverse that accepts one string argument(from the user)
 and returns the reverse of that string.
 
 ### [SimpleSentenceClass](SimpleSentenceClass)
-- The purpose of this program is to (1) manipulate pointers in a sentence class (2) utilize overloaded functions, (3) implement a default constructor, copy constructor and destructor, (4) delete all nodes containing even values.
+- The purpose of this program is to practice writing code for a simple sentence class
+1. Manipulate pointers in a sentence class
+2. Utilize overloaded functions
+3. Implement a default constructor, copy constructor and destructor
+4. Delete all nodes containing even values.
 
 ### [SimpleStateClass](SimpleStateClass) using [census2020_data.txt](SimpleStateClass/Data/census2020_data.txt)
 - The purpose of this program is to parse an input file and allocate each coresponding state and population to its own node. The program allows for insertion of nodes into the tree, deletion of nodes from the tree, sorting of the tree and printing the tree in full or by certain ranges. The program is then able to neatly output the sorted and altered data into a new file.
@@ -66,7 +73,7 @@ Output: [state_data_update.txt](SimpleStateClass/Data/state_data_update.txt)
 ### [SimpleVectorList](SimpleVectorList)
 - use the vector class to manage a dynamic array
 
-(1) Manage a vector(allocate and de-allocate memory, insert inorder, remove, etc).
-(2) Implement a default constructor and a copy constructor.
-(3) Implement an insert function to add a string, in order, into a vector
-(4) Implement a remove function to delete a string from a vector
+1.  Manage a vector(allocate and de-allocate memory, insert inorder, remove, etc).
+2.   Implement a default constructor and a copy constructor.
+3.   Implement an insert function to add a string, in order, into a vector
+4.   Implement a remove function to delete a string from a vector
