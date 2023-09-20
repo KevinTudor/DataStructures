@@ -27,14 +27,14 @@ Output: [Modified and Sorted Tree](SimpleBinarySearchTree/Data/CountryInfo.txt)
   
 Examples of postfix to infix evaluation (by hand)
 
-postfix " 2 3 4 + 5 6 - - * "
+* postfix " 2 3 4 + 5 6 - - * "
 
-2 (3 4 +) 5 6 - - *
-2 "7" (5 6 -) - *
-2 (7 "1" -) *
-(2 "8" *)
+* 2 (3 4 +) 5 6 - - *
+* 2 "7" (5 6 -) - *
+* 2 (7 "1" -) *
+* (2 "8" *)
 
-result	"  16  "
+* result	"  16  "
 
 ### [SimpleQueue](SimpleQueue)
 - The purpose of this program is to (1) manipulate pointers, (2) allocate memory dynamically, (3) implement a default constructor, copy constructor and destructor, (4) use only one pointer to add to the back and to delete from the front of the queue.
