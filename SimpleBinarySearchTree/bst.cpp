@@ -279,13 +279,13 @@ void bst::print_tree(treenode*& loc_ptr)
 		print_tree(loc_ptr->rchild);
 		/* end in order */
 
-		/* (preorder VLR) */
+		/* (preorder VLR) *
 		cout << loc_ptr->county_name << endl;
 		print_tree(loc_ptr->lchild);
 		print_tree(loc_ptr->rchild);
 		/* end preorder */
 
-		/* (postorder LRV) */
+		/* (postorder LRV) *
 		print_tree(loc_ptr->lchild);
 		print_tree(loc_ptr->rchild);
 		cout << loc_ptr->county_name << endl;
@@ -303,7 +303,7 @@ void bst::sorted_info()
 {
 	ofstream sorted;
 
-	sorted.open("country_info.txt");
+	sorted.open("Data/CountryInfo.txt");
 
 	if (sorted.fail())
 	{

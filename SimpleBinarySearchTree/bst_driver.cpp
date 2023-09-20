@@ -38,7 +38,7 @@ int main()
 	cout << endl << endl;
 	/*End Test 1*/
 
-	/*Test 2*
+	/*Test 2*/
 	cout << "**************************************************************" << endl;
 	cout << "Test2: insert" << endl;
 	myTree.insert("New County", 234658);
@@ -48,7 +48,7 @@ int main()
 	cout << endl << endl;
 	/*End Test 2*/
 
-	/*Test 3*
+	/*Test 3*/
 	cout << "**************************************************************" << endl;
 	cout << "Test3: county_ranges" << endl;
 	cout << "Print contents of bst range between B and K in order to the screen (INCLUSIVELY)" << endl << endl;; //including b and k
@@ -57,7 +57,7 @@ int main()
 	cout << endl << endl;
 	/*End Test 3*/
 
-	/*Test 4*
+	/*Test 4*/
 	cout << "**************************************************************" << endl;
 	cout << "Test4: del_name" << endl;
 	myTree.del_name("Miami Dade");
@@ -67,7 +67,7 @@ int main()
 	cout << endl << endl;
 	/*End Test 4*/
 
-	/*Test 5*
+	/*Test 5*/
 	cout << "**************************************************************" << endl;
 	cout << "Test5: sorted_info" << endl << endl;
 	cout << "Print contents of bst inorder to the output file, county_info.txt, with name and associated population size shown" << endl << endl;
@@ -76,7 +76,7 @@ int main()
 	cout << endl << endl;
 	/*End Test 5*/
 
-	/*Test 6*
+	/*Test 6*/
 	cout << "**************************************************************" << endl;
 	cout << "Test6: empty_tree" << endl << endl;
 	myTree.empty_tree();
