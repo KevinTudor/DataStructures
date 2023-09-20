@@ -1,0 +1,67 @@
+     Alachua      249365
+       Baker       27154
+         Bay      169856
+    Bradford       28255
+     Brevard      543566
+     Broward     1780172
+     Calhoun       14750
+   Charlotte      160511
+      Citrus      140031
+        Clay      192970
+     Collier      328134
+    Columbia       67485
+      DeSoto       34894
+       Dixie       16486
+       Duval      870709
+    Escambia      299114
+     Flagler       97376
+    Franklin       11596
+     Gadsden       46151
+   Gilchrist       17004
+      Glades       12635
+        Gulf       15844
+    Hamilton       14671
+      Hardee       27887
+      Hendry       39089
+    Hernando      173094
+   Highlands       98630
+Hillsborough     1267775
+      Holmes       19873
+Indian River      138894
+     Jackson       49292
+   Jefferson       14658
+   Lafayette        8942
+        Lake      301019
+         Lee      631330
+        Leon      277971
+        Levy       40156
+     Liberty        8314
+     Madison       19115
+     Manatee      327142
+      Marion      332529
+      Martin      147495
+      Monroe       73873
+      Nassau       74195
+  New County      234658
+    Okaloosa      183482
+  Okeechobee       40140
+      Orange     1169107
+     Osceola      276163
+  Palm Beach     1335187
+       Pasco      466457
+    Pinellas      917398
+        Polk      609492
+      Putnam       74041
+  Santa Rosa      154104
+    Sarasota       38213
+    Seminole      425071
+   St. Johns      195823
+   St. Lucie      280379
+      Sumter       97756
+    Suwannee       41972
+      Taylor       22691
+       Union       15388
+     Volusia      494804
+     Wakulla       30978
+      Walton       55793
+  Washington       24935

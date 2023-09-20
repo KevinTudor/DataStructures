@@ -1,0 +1,67 @@
+Lake 301019
+Lafayette 8942
+Lee 631330
+Jefferson 14658
+Leon 277971
+Jackson 49292
+Levy 40156
+Indian River 138894
+Liberty 8314
+Holmes 19873
+Madison 19115
+Hillsborough 1267775
+Manatee 327142
+Highlands 98630
+Marion 332529
+Hernando 173094
+Martin 147495
+Hendry 39089
+Miami Dade 2662874
+Hardee 27887
+Monroe 73873
+Hamilton 14671
+Nassau 74195
+Gulf 15844
+Okaloosa 183482
+Glades 12635
+Okeechobee 40140
+Gilchrist 17004
+Orange 1169107
+Gadsden 46151
+Osceola 276163
+Franklin 11596
+Palm Beach 1335187
+Flagler 97376
+Pasco 466457
+Escambia 299114
+Pinellas 917398
+Duval 870709
+Polk 609492
+Dixie 16486
+Putnam 74041
+DeSoto 34894
+Santa Rosa 154104
+Columbia 67485
+Sarasota 38213
+Collier 328134
+Seminole 425071
+Clay 192970
+Citrus 140031
+St. Johns 195823
+Charlotte 160511
+St. Lucie 280379
+Calhoun 14750
+Sumter 97756
+Broward 1780172
+Suwannee 41972
+Brevard 543566
+Taylor 22691
+Bradford 28255
+Union 15388
+Bay 169856
+Volusia 494804
+Baker 27154
+Wakulla 30978
+Alachua 249365
+Walton 55793
+Washington 24935
