@@ -10,7 +10,7 @@
 using namespace std;
 
 /*********************************************************************************************
-				M o d u l e _ 1 1 B . h		 (class declarations)
+				B S T C o m p a r i s o n . h		 (class declarations)
 **********************************************************************************************
 
 	Description: CHECK IF 2 BINARY SEARCH TREES ARE EQUAL

@@ -4,7 +4,7 @@
 using namespace std;
 
 /*********************************************************************************************
-				M o d u l e _ 1 1 B _ d r i v e r . c p p
+				B S T C o m p a r i s o n _ d r i v e r . c p p
 **********************************************************************************************
 
 Name: Kevin Tudor (z23468207)
@@ -25,10 +25,10 @@ int main()
 	bst myTree;
 	bst myTree2;
 
-	//myTree.insert(-6);
+	myTree.insert(-6);
 	//myTree2.del_name(1);
-	//myTree2.del_name(2);
-	//myTree2.del_name(3);
+	myTree2.del_name(2);
+	myTree2.del_name(3);
 
 	cout << "Tree 1" << endl;
 	myTree.print_tree();

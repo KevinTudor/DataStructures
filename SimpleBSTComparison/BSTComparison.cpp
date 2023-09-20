@@ -5,7 +5,7 @@
 using namespace std;
 
 /*********************************************************************************************
-				M o d u l e _ 1 1 B . c p p
+				B S T C o m p a r i s o n . c p p
 **********************************************************************************************
 
 Description: CHECK IF 2 BINARY SEARCH TREES ARE EQUAL
@@ -24,16 +24,16 @@ bst::bst()
 
 	ifstream data;
 
-	data.open("test2.txt");
+	data.open("Data/Tree1.txt");
 
 	if (data.fail())
 	{
-		cout << "Country Data input did not load.\n\n";
+		cout << "Tree1 Data did not load.\n\n";
 		exit(1);
 	}
 	else
 	{
-		//cout << "Country data input success\n\n";
+		cout << "Tree1 data input success\n\n";
 	}
 
 	string temp;
